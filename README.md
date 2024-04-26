@@ -1,1 +1,1 @@
-# JavaprojectCSE-310
+This project is a Piano Instrument implemented in Java. It provides a virtual piano keyboard with support for playing various musical notes and melodies. The application is built using Java, making it platform-independent and easy to use for both beginners and experienced musicians.
